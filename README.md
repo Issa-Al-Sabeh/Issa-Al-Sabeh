@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m Issa, a software developer from Beirut, Lebanon. I enjoy creating solutions that solve real problems. My focus includes mobile development, web development, and various technologies.<br>🌱 I'm eager to learn and improve my skills across different areas of technology.<br>💬 Feel free to connect with me! I'm open to collaboration and sharing ideas.
+👋 Hi! I’m Issa, a software developer from Beirut, Lebanon. I enjoy creating solutions that solve real problems. My focus includes mobile development, web development, and various technologies.<br><br>🌱 I'm eager to learn and improve my skills across different areas of technology.<br><br>💬 Feel free to connect with me! I'm open to collaboration and sharing ideas.
 
 
 ## 🌐 Socials:
